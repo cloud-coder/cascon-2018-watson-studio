@@ -12,7 +12,7 @@ Within the IBM Watson Studio project, navigate to the Assets tab.  You'll see va
 We will be creating a new Notebook and using it to import, refine and visualize some data from within the IBM Watson Studio project.  For the purpose of this lab, the notebook has already been created.  We'll be importing it and executing the individual steps in order demonstrate the functionality.
 
 - Navigate to Assets > Notebooks and click the New Notebook link
-- On the New Notebook page choose "From File".  Click the "Choose File" button and specify the Notebook File as <download_location>/cascon-watson-studio-2018-master/02-data-set-analysis-jupyter/visualizing-data.ipynb.
+- On the New Notebook page choose "From File".  Click the "Choose File" button and specify the Notebook File as <download_location>/cascon-2018-watson-studio-master/02-data-set-analysis-jupyter/visualizing-data.ipynb.
 
 - In the Select Runtime section, select the Spark Service that was created in the Setup portion of the lab (example spark-cascon2018-dpape).
 - Give the Notebook a name such as "Visualizing Data with Notebooks" and optional Description and click Create Notebook. 
