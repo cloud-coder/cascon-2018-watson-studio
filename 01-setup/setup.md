@@ -4,7 +4,7 @@ Follow instructions below to login to IBM Watson Studio.
 
 ## Download the contents of the Github repository
 
-- Go to the main page for this [repository](https://github.ibm.com/dpape/cascon2018)
+- Go to the main page for this [repository](https://github.com/cloud-coder/cascon-2018-watson-studio)
 - Download the entire repository for this workshop by clicking the "Clone or Download" button and then choosing Download Zip
 - Save the zip file to your local computer and then unzip it to a known location such as C:\WatsonStudioWorkshop or a location in your Documents folder if using a Mac
 - Future steps in this lab will refer to <download_location> and the relative path for any files needed
