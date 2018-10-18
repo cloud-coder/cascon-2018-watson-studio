@@ -15,7 +15,7 @@ The first thing we are going to do is to import our data sources.  Much of the t
 
 - On the right hand side of the screen there is a section called Find and Add Data which allows you to load and view files that are imported into the project.
 
-- Click on the Load tab and click Browse. Browse to <download_directory>/cascon-watson-studio-2018-master/data and select the following files:  
+- Click on the Load tab and click Browse. Browse to <download_directory>/cascon-2018-watson-studio-master/data and select the following files:  
 dftRoadSafety_Accidents_2016.csv (raw data regarding accidents)  
 MakeModel2016.csv (raw data on makes/models of the vehicles involved in accidents)  
 DayOfWeekLookup.csv (lookup data relating Day of Week to integer code)  
