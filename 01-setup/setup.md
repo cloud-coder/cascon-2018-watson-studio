@@ -9,16 +9,10 @@ Follow instructions below to login to IBM Watson Studio.
 - Save the zip file to your local computer and then unzip it to a known location such as C:\WatsonStudioWorkshop or a location in your Documents folder if using a Mac
 - Future steps in this lab will refer to <download_location> and the relative path for any files needed
 
-## Log in to IBM Watson Studio
-
-- Launch a new browser window and navigate to [IBM Watson Studio](https://dataplatform.cloud.ibm.com).
-- Click Log in and specify your IBM ID and password for use on IBM Cloud (formerly Bluemix).
-- Follow any instructions for linking your IBM Cloud Account with IBM Watson Studio.
-
 ## Setting up IBM Watson Studio and creating a new project
 
 We will create a new project in IBM Watson Studio which will hold all the various assets used in this lab.  
-Follow these steps to set up your IBM Cloud account for Watson Studio.
+Follow these steps to set up your IBM Cloud account for Watson Studio. 
 
 - First, browse the [Watson Services](https://console.bluemix.net/developer/watson/services) or alternatively you can click on the hamburger menu at the top left, click Watson and then click Browse all Watson services.
 
