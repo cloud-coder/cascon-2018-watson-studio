@@ -45,3 +45,4 @@ In this lab you have learned some of the interesting features and tools in IBM W
 
 The labs only touched on a few parts of IBM Watson Studio.  Now that you know some basics you are encouraged to explore on your own!  Thank you for attending!
 
+
