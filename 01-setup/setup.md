@@ -14,8 +14,6 @@ Follow instructions below to login to IBM Watson Studio.
 We will create a new project in IBM Watson Studio which will hold all the various assets used in this lab.  
 Follow these steps to set up your IBM Cloud account for Watson Studio. 
 
-- Sign in to IBM Cloud First, browse the [Watson Services](https://console.bluemix.net/developer/watson/services) or alternatively you can click on the hamburger menu at the top left, click Watson and then click Browse all Watson services.
-
 - First, browse the [Watson Services](https://console.bluemix.net/developer/watson/services) or alternatively you can click on the hamburger menu at the top left, click Watson and then click Browse all Watson services.  Be sure to click the Sign In link at the top right and sign in to IBM Cloud.
 
 ![Browse Watson Services][setup-image-1]
