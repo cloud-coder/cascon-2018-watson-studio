@@ -22,7 +22,7 @@ Follow these steps to set up your IBM Cloud account for Watson Studio.
 ![Create Watson Service][setup-image-2]
 - After the service is created, click Get Started in order to launch Watson Studio.
 - Under Recently updated projects, click on New Project.
-- Choose "Complete Project" in order to have access to the entire suite of tools in IBM Watson Studio and then click OK.
+- Choose "Standard Project" in order to have access to the entire suite of tools in IBM Watson Studio and then click OK.
 
 ![Create New Project][setup-image-3]
 - Give your new project a name.  For example: "watson-studio-cascon-2018" and give it an optional description.
